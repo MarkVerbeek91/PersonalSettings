@@ -1,0 +1,13 @@
+.bash_history
+.bash_logout
+.cache/
+.config/
+.esd_auth
+.local/
+.mozilla/
+.ssh/
+.viminfo
+.wget-hsts
+
+*
+
